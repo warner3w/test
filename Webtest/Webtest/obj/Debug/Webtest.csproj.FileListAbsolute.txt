@@ -1,0 +1,4 @@
+E:\aVs2010\Webtest\Webtest\bin\Webtest.dll
+E:\aVs2010\Webtest\Webtest\bin\Webtest.pdb
+E:\aVs2010\Webtest\Webtest\obj\Debug\Webtest.dll
+E:\aVs2010\Webtest\Webtest\obj\Debug\Webtest.pdb
